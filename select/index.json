@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "One Night Carnival",
+  "base_artist": "Kishidan",
+  "createdAt": "2025-12-14T02:19:50.889549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Night Carnival",
+      "artist": "Kishidan",
+      "has_synced": true,
+      "path": "select/01_One_Night_Carnival_Kishidan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Night Carnival",
+      "artist": "Kishidan",
+      "has_synced": false,
+      "path": "select/02_One_Night_Carnival_Kishidan.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Night Carnival",
+      "artist": "氣志團",
+      "has_synced": true,
+      "path": "select/03_One_Night_Carnival_氣志團.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Night Carnival (ALBUM Ver.)",
+      "artist": "氣志團",
+      "has_synced": false,
+      "path": "select/04_One_Night_Carnival_(ALBUM_Ver.)_氣志團.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Night Carnival 2013",
+      "artist": "Kishidan",
+      "has_synced": true,
+      "path": "select/05_One_Night_Carnival_2013_Kishidan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Night Carnival",
+      "artist": "風神RIZING！",
+      "has_synced": false,
+      "path": "select/06_One_Night_Carnival_風神RIZING!.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Night Carnival",
+      "artist": "Kishidan",
+      "has_synced": false,
+      "path": "select/07_One_Night_Carnival_Kishidan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Night Carnival",
+      "artist": "Kishi-dan",
+      "has_synced": true,
+      "path": "select/08_One_Night_Carnival_Kishi-dan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Night Carnival",
+      "artist": "氣志團",
+      "has_synced": false,
+      "path": "select/pl_01_One_Night_Carnival_氣志團.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "One Night Carnival",
+      "artist": "氣志團",
+      "has_synced": false,
+      "path": "select/pl_02_One_Night_Carnival_氣志團.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "One Night Carnival",
+      "artist": "氣志團",
+      "has_synced": false,
+      "path": "select/pl_03_One_Night_Carnival_氣志團.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "One Night Carnival",
+      "artist": "氣志團",
+      "has_synced": false,
+      "path": "select/pl_04_One_Night_Carnival_氣志團.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "One night Carnival",
+      "artist": "氣志團",
+      "has_synced": false,
+      "path": "select/pl_05_One_night_Carnival_氣志團.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "One Night Carnival 2013",
+      "artist": "氣志團",
+      "has_synced": false,
+      "path": "select/pl_06_One_Night_Carnival_2013_氣志團.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "One Night Carnival 2013",
+      "artist": "氣志團",
+      "has_synced": false,
+      "path": "select/pl_07_One_Night_Carnival_2013_氣志團.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "One Night Carnival 2013",
+      "artist": "氣志團",
+      "has_synced": false,
+      "path": "select/pl_08_One_Night_Carnival_2013_氣志團.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "One Night Carnival (ALBUM Ver.)",
+      "artist": "氣志團",
+      "has_synced": false,
+      "path": "select/pl_09_One_Night_Carnival_(ALBUM_Ver.)_氣志團.txt"
+    }
+  ]
+}
